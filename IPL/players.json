@@ -1,0 +1,1259 @@
+{
+   "teams": [
+     {
+       "name": "Mumbai Indians",
+       "players": [
+         {
+           "name": "Rohit Sharma",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "16.30 crore"
+         },
+         {
+           "name": "Suryakumar Yadav",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "country": "India", 
+           "price": "16.35 crore"
+         },
+         {
+           "name": "Tilak Varma",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "bowlingStyle": "ROS",
+           "country": "India",
+           "price": "8 crore"
+         },
+         {
+           "name": "Will Jacks",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "bowlingStyle": "ROS",
+           "country": "England",
+           "price": "5.25 crore"
+         },
+         {
+           "name": "Bevon Jacobs",
+           "role": "Batter",
+           "country": "New Zealand",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Vignesh Puthur",
+           "role": "Wicket-keeper",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Ryan Rickelton",
+           "role": "Wicket-keeper",
+           "battingStyle": "LHB",
+           "country": "South Africa",
+           "price": "1 crore"
+         },
+         {
+           "name": "Robin Minz",
+           "role": "Wicket-keeper",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "65 lakhs"
+         },
+         {
+           "name": "Shrijith Krishnan",
+           "role": "Wicket-keeper",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Hardik Pandya",
+           "role": "Pace All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "RAM",
+           "country": "India",
+           "price": "16.35 crore"
+         },
+         {
+           "name": "Naman Dhir",
+           "role": "Batting All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "ROB",
+           "country": "India",
+           "price": "5.25 crore"
+         },
+         {
+           "name": "Raj Angad Bawa",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Karn Sharma",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Leg break",
+           "country": "India",
+           "price": "50 lakhs"
+         },
+         {
+           "name": "Mitchell Santner",
+           "role": "Bowling All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "SLAO",
+           "country": "New Zealand",
+           "price": "2 crore"
+         },
+         {
+           "name": "Jasprit Bumrah",
+           "role": "Fast Bowler",
+           "bowlingStyle": "RAF",
+           "country": "India",
+           "price": "18 crore"
+         },
+         {
+           "name": "Trent Boult",
+           "role": "Fast Bowler",
+           "bowlingStyle": "LAF",
+           "country": "New Zealand",
+           "price": "12.50 crore"
+         },
+         {
+           "name": "Deepak Chahar",
+           "role": "Fast Bowler",
+           "bowlingStyle": "RAF",
+           "country": "India",
+           "price": "9.25 crore"
+         },
+         {
+           "name": "Allah Ghazanfar",
+           "role": "Fast Bowler",
+           "bowlingStyle": "RAF",
+           "country": "Afghanistan",
+           "price": "4.80 crore"
+         },
+         {
+           "name": "Ashwani Kumar",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Reece Topley",
+           "role": "Fast Bowler",
+           "bowlingStyle": "LAFM",
+           "country": "England",
+           "price": "75 lakhs"
+         },
+         {
+           "name": "Satyanarayana Raju",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Lizaad Williams",
+           "role": "Fast Bowler",
+           "bowlingStyle": "RAF",
+           "country": "South Africa",
+           "price": "75 lakhs"
+         },
+         {
+           "name": "Arjun Tendulkar",
+           "role": "Fast Bowler",
+           "bowlingStyle": "LAM",
+           "country": "India",
+           "price": "30 lakhs"
+         }
+       ]
+     },
+     {
+       "name": "Kolkata Knight Riders",
+       "players": [
+         {
+           "name": "Angkrish Raghuvanshi",
+           "role": "Right-hand batter",
+           "country": "India",
+           "price": "3 crore"
+         },
+         {
+           "name": "Rinku Singh",
+           "role": "Left-hand batter",
+           "country": "India",
+           "price": "13 crore"
+         },
+         {
+           "name": "Ramandeep Singh",
+           "role": "Right-hand batter",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Rovman Powell",
+           "role": "Right-handed batter",
+           "country": "West Indies",
+           "price": "1.50 crore"
+         },
+         {
+           "name": "Manish Pandey",
+           "role": "Right-hand batter",
+           "country": "India",
+           "price": "75 lakhs"
+         },
+         {
+           "name": "Luvnith Sisodia",
+           "role": "Batter",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Ajinkya Rahane",
+           "role": "Batter",
+           "country": "India",
+           "price": "1.50 crore"
+         },
+         {
+           "name": "Anukul Roy",
+           "role": "Batter",
+           "country": "India",
+           "price": "40 lakhs"
+         },
+         {
+           "name": "Quinton de Kock",
+           "role": "Wicketkeeper",
+           "battingStyle": "LHB",
+           "country": "South Africa",
+           "price": "3.60 crore"
+         },
+         {
+           "name": "Rahmanullah Gurbaz",
+           "role": "Wicketkeeper",
+           "battingStyle": "RHB",
+           "country": "Afghanistan",
+           "price": "2 crore"
+         },
+         {
+           "name": "Moeen Ali",
+           "role": "All-rounder",
+           "country": "England",
+           "price": "2 crore"
+         },
+         {
+           "name": "Andre Russell",
+           "role": "All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "RAFM",
+           "country": "West Indies",
+           "price": "12 crore"
+         },
+         {
+           "name": "Sunil Narine",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "ROS",
+           "country": "West Indies",
+           "price": "12 crore"
+         },
+         {
+           "name": "Venkatesh Iyer",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "RAM",
+           "country": "India",
+           "price": "23.75 crore"
+         },
+         {
+           "name": "Varun Chakravarthy",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Leg-break",
+           "country": "India",
+           "price": "12 crore"
+         },
+         {
+           "name": "Mayank Markande",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Leg-break",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Harshit Rana",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Anrich Nortje",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "South Africa",
+           "price": "6.50 crore"
+         },
+         {
+           "name": "Vaibhav Arora",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "India",
+           "price": "1.80 crore"
+         },
+         {
+           "name": "Spencer Johnson",
+           "role": "Fast Bowler",
+           "country": "Australia",
+           "price": "2.80 crore"
+         },
+         {
+           "name": "Umran Malik",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "75 lakhs"
+         }
+       ]
+     },
+     {
+       "name": "Chennai Super Kings",
+       "players": [
+         {
+           "name": "Ruturaj Gaikwad",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "18 crore"
+         },
+         {
+           "name": "Devon Conway",
+           "role": "Wicket-keeper Batter",
+           "battingStyle": "Left-hand",
+           "country": "New Zealand",
+           "price": "6.25 crore"
+         },
+         {
+           "name": "Rahul Tripathi",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "3.4 crore"
+         },
+         {
+           "name": "Shivam Dube",
+           "role": "Batter",
+           "battingStyle": "Left-hand",
+           "country": "India",
+           "price": "12 crore"
+         },
+         {
+           "name": "Shaik Rasheed",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Deepak Hooda",
+           "role": "Batter",
+           "country": "India",
+           "price": "1.70 crore"
+         },
+         {
+           "name": "Shreyas Gopal",
+           "role": "Batter",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Vansh Bedi",
+           "role": "Batter",
+           "country": "India",
+           "price": "55 lakhs"
+         },
+         {
+           "name": "Andre Siddharth",
+           "role": "Batter",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "MS Dhoni",
+           "role": "Wicketkeeper",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Rachin Ravindra",
+           "role": "All-rounder",
+           "country": "New Zealand",
+           "price": "4 crore"
+         },
+         {
+           "name": "Sam Curran",
+           "role": "All-rounder",
+           "country": "England",
+           "price": "2.40 crore"
+         },
+         {
+           "name": "Vijay Shankar",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "1.2 crore"
+         },
+         {
+           "name": "Ravindra Jadeja",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "18 crore"
+         },
+         {
+           "name": "Ravichandran Ashwin",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "9.75 crore"
+         },
+         {
+           "name": "Anshul Kamboj",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "3.40 crore"
+         },
+         {
+           "name": "Noor Ahmad",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Left-arm chinaman",
+           "country": "Afghanistan",
+           "price": "10 crore"
+         },
+         {
+           "name": "Matheesha Pathirana",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "Sri Lanka",
+           "price": "13 crore"
+         },
+         {
+           "name": "Khaleel Ahmed",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Left-arm",
+           "country": "India",
+           "price": "4.80 crore"
+         },
+         {
+           "name": "Mukesh Choudhary",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Nathan Ellis",
+           "role": "Fast Bowler",
+           "country": "Australia",
+           "price": "2 crore"
+         },
+         {
+           "name": "Kamlesh Nagarkoti",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "30 lakhs"
+         }
+       ]
+     },
+     {
+       "name": "Rajasthan Royals",
+       "players": [
+         {
+           "name": "Yashasvi Jaiswal",
+           "role": "Batter",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "18 crore"
+         },
+         {
+           "name": "Riyan Parag",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "bowlingStyle": "RAO",
+           "country": "India",
+           "price": "14 crore"
+         },
+         {
+           "name": "Shimron Hetmyer",
+           "role": "Batter",
+           "battingStyle": "LHB",
+           "country": "West Indies",
+           "price": "11 crore"
+         },
+         {
+           "name": "Nitish Rana",
+           "role": "Batter",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "4.20 crore"
+         },
+         {
+           "name": "Shubham Dubey",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "80 lakhs"
+         },
+         {
+           "name": "Vaibhav Suryavanshi",
+           "role": "Batter",
+           "country": "India",
+           "price": "1.10 crore"
+         },
+         {
+           "name": "Kunal Rathore",
+           "role": "Batter",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Sanju Samson",
+           "role": "Wicketkeeper-batter",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "18 crore"
+         },
+         {
+           "name": "Dhruv Jurel",
+           "role": "Wicketkeeper-batter",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "14 crore"
+         },
+         {
+           "name": "Wanindu Hasaranga",
+           "role": "All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "Leg-break",
+           "country": "Sri Lanka",
+           "price": "5.25 crore"
+         },
+         {
+           "name": "Sandeep Sharma",
+           "role": "Pace Bowler",
+           "bowlingStyle": "RAM",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Jofra Archer",
+           "role": "Pace Bowler",
+           "bowlingStyle": "RAF",
+           "country": "England",
+           "price": "12.50 crore"
+         },
+         {
+           "name": "Akash Madhwal",
+           "role": "Pace Bowler",
+           "bowlingStyle": "RAMF",
+           "country": "India",
+           "price": "1.20 crore"
+         },
+         {
+           "name": "Tushar Deshpande",
+           "role": "Pace Bowler",
+           "bowlingStyle": "RAF",
+           "country": "India",
+           "price": "6.50 crore"
+         },
+         {
+           "name": "Yudhvir Singh",
+           "role": "Pacer",
+           "country": "India",
+           "price": "35 lakhs"
+         },
+         {
+           "name": "Fazalhaq Farooqi",
+           "role": "Pacer",
+           "country": "Afghanistan",
+           "price": "2 crore"
+         },
+         {
+           "name": "Kwena Maphaka",
+           "role": "Pacer",
+           "country": "South Africa",
+           "price": "1.50 crore"
+         },
+         {
+           "name": "Ashok Sharma",
+           "role": "Pacer",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Maheesh Theekshana",
+           "role": "Spin bowler",
+           "bowlingStyle": "ROB",
+           "country": "Sri Lanka",
+           "price": "4.40 crore"
+         },
+         {
+           "name": "Kumar Kartikeya",
+           "role": "Spin Bowler",
+           "bowlingStyle": "SLO",
+           "country": "India",
+           "price": "30 lakhs"
+         }
+       ]
+     },
+     {
+       "name": "Royal Challengers Bengaluru",
+       "players": [
+         {
+           "name": "Virat Kohli",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "21.00 crore"
+         },
+         {
+           "name": "Rajat Patidar",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "11.00 crore"
+         },
+         {
+           "name": "Devdutt Padikkal",
+           "role": "Batter",
+           "country": "India",
+           "price": "2 crore"
+         },
+         {
+           "name": "Swastik Chikara",
+           "role": "Batter",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Phil Salt",
+           "role": "Wicketkeeper",
+           "battingStyle": "RHB",
+           "country": "England",
+           "price": "11.50 crore"
+         },
+         {
+           "name": "Jitesh Sharma",
+           "role": "Wicketkeeper",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "11.00 crore"
+         },
+         {
+           "name": "Liam Livingstone",
+           "role": "All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "Spin",
+           "country": "England",
+           "price": "8.75 crore"
+         },
+         {
+           "name": "Krunal Pandya",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "SLAO",
+           "country": "India",
+           "price": "5.75 crore"
+         },
+         {
+           "name": "Romario Shepherd",
+           "role": "All-rounder",
+           "country": "West Indies",
+           "price": "1.50 crore"
+         },
+         {
+           "name": "Tim David",
+           "role": "All-rounder",
+           "country": "Australia",
+           "price": "3.00 crore"
+         },
+         {
+           "name": "Manoj Bhandage",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Jacob Bethell",
+           "role": "All-rounder",
+           "country": "England",
+           "price": "2.60 crore"
+         },
+         {
+           "name": "Suyash Sharma",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Leg Spin",
+           "country": "India",
+           "price": "2.60 crore"
+         },
+         {
+           "name": "Swapnil Singh",
+           "role": "Spinner",
+           "country": "India",
+           "price": "50 lakhs"
+         },
+         {
+           "name": "Yash Dayal",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "India",
+           "price": "5.00 crore"
+         },
+         {
+           "name": "Rasikh Dar",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "India",
+           "price": "6.00 crore"
+         },
+         {
+           "name": "Josh Hazlewood",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm",
+           "country": "Australia",
+           "price": "12.50 crore"
+         },
+         {
+           "name": "Bhuvneshwar Kumar",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm Medium",
+           "country": "India",
+           "price": "10.75 crore"
+         },
+         {
+           "name": "Nuwan Thushara",
+           "role": "Fast Bowler",
+           "country": "Sri Lanka",
+           "price": "1.6 crore"
+         },
+         {
+           "name": "Abhinandan Singh",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Lungi Ngidi",
+           "role": "Fast Bowler",
+           "country": "South Africa",
+           "price": "1 crore"
+         }
+       ]
+     },
+     {
+       "name": "Delhi Capitals",
+       "players": [
+         {
+           "name": "Jake Fraser-McGurk",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "Australia",
+           "price": "9 crore"
+         },
+         {
+           "name": "Tristan Stubbs",
+           "role": "Wicketkeeper-Batter",
+           "battingStyle": "Right-hand",
+           "bowlingStyle": "ROS",
+           "country": "South Africa",
+           "price": "10 crore"
+         },
+         {
+           "name": "Faf du Plessis",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "South Africa",
+           "price": "2 crore"
+         },
+         {
+           "name": "Harry Brook",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "England",
+           "price": "6.25 crore"
+         },
+         {
+           "name": "Karun Nair",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "India",
+           "price": "50 lakhs"
+         },
+         {
+           "name": "Sameer Rizvi",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "India",
+           "price": "95 lakhs"
+         },
+         {
+           "name": "Ashutosh Sharma",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "India",
+           "price": "3.80 crore"
+         },
+         {
+           "name": "Donovan Ferreira",
+           "role": "Batter",
+           "country": "South Africa",
+           "price": "75 lakhs"
+         },
+         {
+           "name": "KL Rahul",
+           "role": "Wicketkeeper",
+           "country": "India",
+           "price": "14 crore"
+         },
+         {
+           "name": "Abishek Porel",
+           "role": "Wicketkeeper",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Axar Patel",
+           "role": "Bowling All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "SLAO",
+           "country": "India",
+           "price": "16.50 crore"
+         },
+         {
+           "name": "Ajay Mandal",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Vipraj Nigam",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "50 lakhs"
+         },
+         {
+           "name": "Manvath Kumar",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Madhav Tiwari",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "40 lakhs"
+         },
+         {
+           "name": "Kuldeep Yadav",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Left-arm leg spin",
+           "country": "India",
+           "price": "13.25 crore"
+         },
+         {
+           "name": "Mitchell Starc",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Left-arm fast",
+           "country": "Australia",
+           "price": "11.75 crore"
+         },
+         {
+           "name": "T Natarajan",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Left-arm pace",
+           "country": "India",
+           "price": "10.75 crore"
+         },
+         {
+           "name": "Mohit Sharma",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm pace",
+           "country": "India",
+           "price": "2.20 crore"
+         },
+         {
+           "name": "Mukesh Kumar",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm pace",
+           "country": "India",
+           "price": "8.00 crore"
+         },
+         {
+           "name": "Darshan Nalkande",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm pace",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Dushmantha Chameera",
+           "role": "Fast Bowler",
+           "country": "Sri Lanka",
+           "price": "75 lakhs"
+         },
+         {
+           "name": "Tripurana Vijay",
+           "role": "Fast Bowler",
+           "country": "India",
+           "price": "30 lakhs"
+         }
+       ]
+     },
+     {
+       "name": "Gujarat Titans",
+       "players": [
+         {
+           "name": "Jos Buttler",
+           "role": "Wicket-keeper Batter",
+           "battingStyle": "RHB",
+           "country": "England",
+           "price": "15.75 crore"
+         },
+         {
+           "name": "Kumar Kushagra",
+           "role": "Wicket-keeper Batter",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "65 lakhs"
+         },
+         {
+           "name": "Anuj Rawat",
+           "role": "Wicket-keeper Batter",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Shubman Gill",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "16.50 crore"
+         },
+         {
+           "name": "Sai Sudharsan",
+           "role": "Batter",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "8.50 crore"
+         },
+         {
+           "name": "Shahrukh Khan",
+           "role": "Batter",
+           "battingStyle": "RHB",
+           "bowling Style": "ROS",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Sai Kishore",
+           "role": "Batter",
+           "country": "India",
+           "price": "2 crore"
+         },
+         {
+           "name": "Glenn Phillips",
+           "role": "Batter",
+           "country": "New Zealand",
+           "price": "2 crore"
+         },
+         {
+           "name": "Mahipal Lomror",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "SLAO",
+           "country": "India",
+           "price": "1.70 crore"
+         },
+         {
+           "name": "Washington Sundar",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "ROS",
+           "country": "India",
+           "price": "3.20 crore"
+         },
+         {
+           "name": "Nishant Sindhu",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "SLAO",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Rashid Khan",
+           "role": "All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "Leg-break",
+           "country": "Afghanistan",
+           "price": "18 crore"
+         },
+         {
+           "name": "Rahul Tewatia",
+           "role": "All-rounder",
+           "battingStyle": "LHB",
+           "bowlingStyle": "Leg-break",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Karim Janat",
+           "role": "All-rounder",
+           "country": "Afghanistan",
+           "price": "75 lakhs"
+         },
+         {
+           "name": "Kagiso Rabada",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm Fast",
+           "country": "South Africa",
+           "price": "10.75 crore"
+         },
+         {
+           "name": "Mohammed Siraj",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm Fast",
+           "country": "India",
+           "price": "12.25 crore"
+         },
+         {
+           "name": "Prasidh Krishna",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm Fast",
+           "country": "India",
+           "price": "9.50 crore"
+         }
+       ]
+     },
+     {
+       "name": "Lucknow Super Giants",
+       "players": [
+         {
+           "name": "Ayush Badoni",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "David Miller",
+           "role": "Batter",
+           "battingStyle": "Left-handed",
+           "country": "South Africa",
+           "price": "7.50 crore"
+         },
+         {
+           "name": "Aiden Markram",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "bowlingStyle": "ROS",
+           "country": "South Africa",
+           "price": "2 crore"
+         },
+         {
+           "name": "Himmat Singh",
+           "role": "Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Nicholas Pooran",
+           "role": "Wicketkeeper-batter",
+           "battingStyle": "LHB",
+           "country": "West Indies",
+           "price": "21 crore"
+         },
+         {
+           "name": "Rishabh Pant",
+           "role": "Wicketkeeper-batter",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "27 crore"
+         },
+         {
+           "name": "Aryan Juyal",
+           "role": "Wicketkeeper",
+           "battingStyle": "RHB",
+           "country": "India",
+           "price": "30 lakhs"
+         },
+         {
+           "name": "Abdul Samad",
+           "role": "Batting All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "ROB",
+           "country": "India",
+           "price": "4.2 crore"
+         },
+         {
+           "name": "Mitchell Marsh",
+           "role": "Batting All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "RAMF",
+           "country": "Australia",
+           "price": "3.40 crore"
+         },
+         {
+           "name": "Shahbaz Ahmed",
+           "role": "All-rounder",
+           "country": "India",
+           "price": "2.40 crore"
+         },
+         {
+           "name": "Ravi Bishnoi",
+           "role": "Bowler",
+           "bowlingStyle": "Leg-break",
+           "country": "India",
+           "price": "11 crore"
+         },
+         {
+           "name": "Mayank Yadav",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm fast",
+           "country": "India",
+           "price": "11 crore"
+         }
+       ]
+     },
+     {
+       "name": "Punjab Kings",
+       "players": [
+         {
+           "name": "Prabhsimran Singh",
+           "role": "Wicket-keeper Batter",
+           "battingStyle": "Right-hand",
+           "country": "India",
+           "price": "4 crore"
+         },
+         {
+           "name": "Shreyas Iyer",
+           "role": "Batter",
+           "battingStyle": "Right-handed",
+           "country": "India",
+           "price": "26.75 crore"
+         },
+         {
+           "name": "Nehal Wadhera",
+           "role": "Batter",
+           "battingStyle": "Left-handed",
+           "country": "India",
+           "price": "4.20 crore"
+         },
+         {
+           "name": "Azmatullah Omarzai",
+           "role": "Batter",
+           "country": "Afghanistan",
+           "price": "2.40 crore"
+         },
+         {
+           "name": "Josh Inglis",
+           "role": "Wicket-keeper",
+           "battingStyle": "RHB",
+           "country": "Australia",
+           "price": "2.60 crore"
+         },
+         {
+           "name": "Marcus Stoinis",
+           "role": "Batting All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "RAMF",
+           "country": "Australia",
+           "price": "11 crore"
+         },
+         {
+           "name": "Glenn Maxwell",
+           "role": "Batting All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "ROS",
+           "country": "Australia",
+           "price": "4.20 crore"
+         },
+         {
+           "name": "Marco Jansen",
+           "role": "Bowling All-rounder",
+           "battingStyle": "RHB",
+           "bowlingStyle": "LAFM",
+           "country": "South Africa",
+           "price": "7 crore"
+         },
+         {
+           "name": "Yuzvendra Chahal",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Leg Spin",
+           "country": "India",
+           "price": "18 crore"
+         },
+         {
+           "name": "Arshdeep Singh",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Left-arm pace",
+           "country": "India",
+           "price": "18 crore"
+         }
+       ]
+     },
+     {
+       "name": "Sunrisers Hyderabad",
+       "players": [
+         {
+           "name": "Abhishek Sharma",
+           "role": "Batter",
+           "battingStyle": "Left-hand",
+           "country": "India",
+           "price": "14 crore"
+         },
+         {
+           "name": "Travis Head",
+           "role": "Batter",
+           "battingStyle": "Left-hand",
+           "country": "Australia",
+           "price": "14 crore"
+         },
+         {
+           "name": "Heinrich Klaassen",
+           "role": "Wicketkeeper",
+           "battingStyle": "RHB",
+           "country": "South Africa",
+           "price": "23 crore"
+         },
+         {
+           "name": "Ishan Kishan",
+           "role": "Wicketkeeper",
+           "battingStyle": "LHB",
+           "country": "India",
+           "price": "10.25 crore"
+         },
+         {
+           "name": "Pat Cummins",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm fast",
+           "country": "Australia",
+           "price": "18 crore"
+         },
+         {
+           "name": "Mohammed Shami",
+           "role": "Fast Bowler",
+           "bowlingStyle": "Right-arm fast",
+           "country": "India",
+           "price": "10 crore"
+         },
+         {
+           "name": "Rahul Chahar",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Right-arm leg-spinner",
+           "country": "India",
+           "price": "3.20 crore"
+         },
+         {
+           "name": "Adam Zampa",
+           "role": "Spin Bowler",
+           "bowlingStyle": "Right-arm leg-spinner",
+           "country": "Australia",
+           "price": "2.40 crore"
+         }
+       ]
+     }
+   ]
+ }
